@@ -4,15 +4,17 @@ I'm Luiz Felipe ([@olooeez](https://gitlab.com/olooeez)), a passionate developer
 
 ## About Me
 
-- I'm currently studying at Federal University of Viçosa (UFV).
+- I'm currently studying information systems at Federal University of Viçosa (UFV).
 - I'm constantly learning and exploring new technologies.
-- Ask me about Web Development.
+- Ask me about computer vision.
 
 ## Skills
 
 - **Programming Languages:** C, C++, JavaScript, Python, PHP and Go
 - **Web Technologies:** HTML, CSS, Bootstrap and Tailwindcss
-- **Frameworks:** Flask, React, Laravel, Symfony and Gin
+- **Web Frameworks:** Flask, React, Laravel, Symfony and Gin
+- **ML Frameworks:** PyTorch and TensorFlow
+- **Others:** OpenCV, Pandas and Numpy
 - **Database:** MySQL, PostgreSQL and SQLite
 - **Tools & Technologies:** Git, Docker and Linux
 
