@@ -4,7 +4,7 @@ I'm Luiz Felipe ([@olooeez](https://gitlab.com/olooeez)), a passionate developer
 
 ## Skills
 
-- **Programming Languages:** C, C++, JavaScript, Python, PHP and Go
+- **Programming Languages:** C, C++, JavaScript, Python, PHP, Go and Perl
 - **Web Technologies:** HTML, CSS, Bootstrap and Tailwind CSS
 - **Web Frameworks:** Flask, React, Laravel, Symfony and Gin
 - **ML Frameworks:** PyTorch and TensorFlow
