@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm Luiz Felipe ([@olooeez](https://gitlab.com/olooeez)), a passionate developer based in Belo Horizonte, Brazil. Welcome to my GitLab profile!
+I'm Luiz Felipe, a passionate developer based in Belo Horizonte, Brazil. Welcome to my GitLab profile!
 
 ## Skills
 
